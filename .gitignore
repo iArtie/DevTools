@@ -1,0 +1,50 @@
+
+# Workspace files are user-specific
+*.sublime-project
+*.sublime-workspace
+
+# I need to find a way to automatically remove this
+Source/Geode/pkg/uber-apk-signer.jar
+
+# Ignore build folders
+**/build
+
+# ILY vscode
+**/.vscode
+**/.idea
+
+**/.idea
+
+imgui/**
+imgui
+
+**/.DS_Store
+.cache/
+/.vs/DevTools/FileContentIndex/read.lock
+/.vs/DevTools/FileContentIndex
+/.vs/DevTools/v17/ipch/7b38fbd4a4c314c4.ipch
+/.vs/DevTools/v17/Browse.VC.db
+/.vs/DevTools/v17/Browse.VC.db-shm
+/.vs/DevTools/v17/Browse.VC.opendb
+/.vs/ProjectSettings.json
+/.vs/DevTools/v17/Browse.VC.db-wal
+/.vs/DevTools/v17/.wsuo
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/DevToolss/FileContentIndex/read.lock
+/.vs/DevToolss/FileContentIndex/d817ecd2-2066-4e1b-a94b-1f7f617ca6c3.vsidx
+/.vs/DevToolss/FileContentIndex/dc130f9c-19e3-4e4c-8594-173b84439dd2.vsidx
+/.vs/DevToolss/FileContentIndex/9d24ddc6-9238-4d45-9a4d-e2698ca1c9fb.vsidx
+/.vs/DevToolss/FileContentIndex/6c9d822d-6f18-48fb-a45f-7d7675e7e676.vsidx
+/.vs/DevToolss/v17/Browse.VC.db
+/.vs/DevToolss/v17/Browse.VC.db-wal
+/.vs/DevToolss/v17/Browse.VC.db-shm
+/.vs/CMakeWorkspaceSettings.json
+/.vs/DevToolss/v17/Browse.VC.opendb
+/.vs/DevToolss/v17/.wsuo
+/.vs/DevToolss/FileContentIndex/e7a62931-8a5c-4c2a-94cf-2215eb7a57ed.vsidx
+/.vs/DevToolss/FileContentIndex/836863ce-a2ff-4ae9-b611-224f08e5b834.vsidx
+/.vs/DevToolss/FileContentIndex/5caae7ee-c69a-4749-ae06-18e8e37e2435.vsidx
+/.vs/DevToolss/FileContentIndex/2f324de3-26eb-4239-baf7-304e435d96f2.vsidx
+/.vs/DevToolss/FileContentIndex/d92a28e2-48cc-45f0-9e8f-e065d7f4c455.vsidx
+/.vs/DevToolss/FileContentIndex
